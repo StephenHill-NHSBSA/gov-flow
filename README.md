@@ -1,32 +1,23 @@
-# GOV Flow
+# NHSBSA Flow
 
-[Download](https://github.com/charlesrt/gov-flow/blob/master/gov_flow_47.1.sketch?raw=true) free design kit for user flows.
+This is a fork of the fantastic kit that Charles Reynolds-Talbot created for mocking up UK Government user flows. I have merely ported this across to create a NHS BSA specific version using NHS Service Manual styling. All credit must go to him!
 
-[Read more about why I made this kit on Medium.](https://medium.com/@charlesrt/designing-flows-with-gov-flow-749da31944ca)
+To read more about why he made this kit, visit:
 
-![screenshot](https://user-images.githubusercontent.com/13832188/36381910-0652bf3c-157f-11e8-8fec-c59613c58f81.png)
+https://medium.com/@charlesrt/designing-flows-with-gov-flow-749da31944ca
+
+### NHS BSA - Old branding
+
+![NHSBSA - Screenshot of old branding](https://user-images.githubusercontent.com/45825845/61945628-61ab0b00-af98-11e9-9c1e-b4bf6f2995bc.png)
+
+### NHS BSA - New branding
+
+![NHSBSA - Screenshot of new branding](https://user-images.githubusercontent.com/45825845/61945629-6243a180-af98-11e9-8c92-af7f49de884d.png)
 
 ## Sketch version
 
-This was made in Sketch version 47.1. Some things might not work properly in previous versions.
-
-## Things to do
-
-- Release 1.2 coming soon
-- Add contributions I've received with credits
-- Update colours and symbolise
-- Update symbol labels so it's easier to identify overrides
-- ~~Finish 'Task list' screen~~ Done
-- ~~Add 'Check your answers' screen~~ Done
-- ~~Add 'Confirmation screen~~ Done
-- ~~Add example user flow~~ Done
+The original was made in Sketch version 47.1. Some things might not work properly in previous versions.
 
 ## Licence
 
 Released under the creative commons licence — [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
-
-## Saying thanks ☕️
-
-I design in the open as much as I can and encourage others to do the same. A credit to [me on Twitter](https://twitter.com/charles_rt) and link back to this Github repo are greatly appreciated.
-
-A few people have asked if they can buy me a coffee. Yes, if I ever see you in person a Soy Cappuccino would be amazing. If I never see you and you want to do the same, you can [buy me the digital equivalent to say thanks](https://monzo.me/charlesreynoldstalbot/3?d=Buy%20me%20a%20coffee%20%E2%98%95%EF%B8%8F).
